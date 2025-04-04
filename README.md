@@ -3,13 +3,16 @@
 Dubai | +971 56-153-6902 | mohdanasali2491@gmail.com | LinkedIn
 
 **Profile**
+
 Results-oriented Data Analyst with almost 3 years of experience transforming raw data into actionable insights that drive business growth. Proficient in SQL, Power BI, and Excel, with a strong ability to analyze complex datasets, identify trends, and present findings through compelling visualizations.
 
 Skilled in data cleaning, dashboard creation, KPI tracking, and process automation, ensuring efficient and data-driven decision-making. Adept at collaborating with cross-functional teams to optimize operations and improve business performance.
 Open to opportunities where I can apply my analytical expertise to drive meaningful business impact.
 
 **Experience**
+
 DATA ANALYST | AMAZON, HYDERABAD, INDIA| MARCH 2022 – JANUARY 2025
+
 ·	Built 5+ real-time dashboards using Power BI and Tableau, reducing reporting turnaround time by 40% and improving decision-making efficiency for 10+ stakeholders.
 ·	Effective Stakeholder Communication: Coordinated with cross-functional teams and provided weekly flash reports, resulting in a 25% improvement in project alignment and a 15% reduction in communication gaps.
 ·	Managed 2 critical programs with 100% SLA adherence, enhancing operational efficiency. Reduced MTTD and MTTR by 30% (from 18.8 to 13.16 days), impacting 50+ cases per month.
