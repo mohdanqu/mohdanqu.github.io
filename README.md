@@ -37,10 +37,11 @@ DATA ANALYST | AMAZON, HYDERABAD, INDIA| MARCH 2022 – JANUARY 2025
 
 
 **Education**
+
 BACHELOR OF TECHNOLOGY | SEPTEMBER 2017 - 2021 | 
 JAWAHARLAL NEHRU TECHNOLOGY UNIVERSITY HYDERABAD, INDIA
-Skills & Abilities
-Technical Skills:
+
+**Technical Skills & Abilities**:
 ·	SQL 
 ·	Excel (Advanced) 
 ·	R Programming
