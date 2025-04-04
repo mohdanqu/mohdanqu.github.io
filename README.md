@@ -11,17 +11,27 @@ Open to opportunities where I can apply my analytical expertise to drive meaning
 
 **Experience**
 
-DATA ANALYST | AMAZON, HYDERABAD, INDIA| MARCH 2022 – JANUARY 2025
+DATA ANALYST 
+AMAZON, HYDERABAD, INDIA MARCH 2022 – JANUARY 2025
 
 ·	Built 5+ real-time dashboards using Power BI and Tableau, reducing reporting turnaround time by 40% and improving decision-making efficiency for 10+ stakeholders.
+
 ·	Effective Stakeholder Communication: Coordinated with cross-functional teams and provided weekly flash reports, resulting in a 25% improvement in project alignment and a 15% reduction in communication gaps.
+
 ·	Managed 2 critical programs with 100% SLA adherence, enhancing operational efficiency. Reduced MTTD and MTTR by 30% (from 18.8 to 13.16 days), impacting 50+ cases per month.
+
 ·	Identified and resolved knowledge gaps, leading to a 35% reduction in stakeholder escalations and improving team productivity by 20%.
+
 ·	Developed 10+ SQL queries that saved the operations team 4 hours per week, translating to 200+ hours annually in productivity gains.
+
 ·	Created 3 VBA-based tools that raised SOP compliance from 66.5% to 99.5%, saving 5 hours weekly on audit feedback processing and benefiting 15+ team members.
+
 ·	Led a 4-week training program in Excel and SQL for 20+ employees, increasing team efficiency by 18% and reducing errors by 25%.
+
 ·	Directed 2 automation initiatives that eliminated SLA misses, reducing backlog by 50%. Collaboration on the PAVE tool improved compliance workflow efficiency by 20%, benefiting 3 departments.
+
 ·	Analyzed 100K+ data points, identifying trends that led to a 15% improvement in operational strategies.
+
 ·	Detected fraudulent patterns among sellers, reducing fraudulent transactions by 30% and saving the company an estimated $50K annually.
 ·	Accessed public datasets of 500K+ records via BigQuery to perform cross-market analyses, aiding in data-driven decision-making.
 ·	Generated 20+ analytical reports using R and R Markdown, improving report clarity and reducing review times by 25%.
