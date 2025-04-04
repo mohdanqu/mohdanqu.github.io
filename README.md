@@ -2,9 +2,13 @@
 
 Dubai | +971 56-153-6902 | mohdanasali2491@gmail.com | LinkedIn
 
-Profile
-Versatile and goal-driven Data Analyst with a passion for process improvement and team development. Aiming to contribute to company’s growth through strategic planning and execution.
-Experience
+**Profile**
+Results-oriented Data Analyst with almost 3 years of experience transforming raw data into actionable insights that drive business growth. Proficient in SQL, Power BI, and Excel, with a strong ability to analyze complex datasets, identify trends, and present findings through compelling visualizations.
+
+Skilled in data cleaning, dashboard creation, KPI tracking, and process automation, ensuring efficient and data-driven decision-making. Adept at collaborating with cross-functional teams to optimize operations and improve business performance.
+Open to opportunities where I can apply my analytical expertise to drive meaningful business impact.
+
+**Experience**
 DATA ANALYST | AMAZON, HYDERABAD, INDIA| MARCH 2022 – JANUARY 2025
 ·	Built 5+ real-time dashboards using Power BI and Tableau, reducing reporting turnaround time by 40% and improving decision-making efficiency for 10+ stakeholders.
 ·	Effective Stakeholder Communication: Coordinated with cross-functional teams and provided weekly flash reports, resulting in a 25% improvement in project alignment and a 15% reduction in communication gaps.
@@ -27,7 +31,9 @@ DATA ANALYST | AMAZON, HYDERABAD, INDIA| MARCH 2022 – JANUARY 2025
 ·	Utilized JIRA and Trello to manage 10+ projects, reducing project delays by 15% and improving task visibility.
 ·	Enhanced revenue operations by implementing dashboards that improved sales decision-making, contributing to a 10% boost in conversion rates.
 ·	Utilized Amazon's custom CRM (similar to Salesforce and HubSpot) to manage and track 100+ customer interactions, improving data accuracy and reducing response times by 20%.
-Education
+
+
+**Education**
 BACHELOR OF TECHNOLOGY | SEPTEMBER 2017 - 2021 | 
 JAWAHARLAL NEHRU TECHNOLOGY UNIVERSITY HYDERABAD, INDIA
 Skills & Abilities
@@ -56,8 +62,12 @@ Technical Skills:
 ·	Training and Development
 ·	Time Management and Organization
 ·	Collaboration and Teamwork
-Certificates
+
+
+**Certificates**
 ·	Google certified Data Analytics Professional Certificate.
 ·	Google AI Essentials.
-Additional Information
-Visa Type: Visit Visa (Expires on 26/03/2025)
+
+
+**Additional Information**
+Visa Type: Visit Visa (Expires on 26/05/2025)
