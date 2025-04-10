@@ -18,10 +18,6 @@ AMAZON, HYDERABAD, INDIA MARCH 2022 – JANUARY 2025
 
 ·	Effective Stakeholder Communication with cross-functional teams.
 
-·	Managed 2 critical programs with 100% SLA adherence, enhancing operational efficiency.
-
-·	Identified and resolved knowledge gaps, leading to reduction in stakeholder escalations and improving team productivity.
-
 ·	Developed 10+ SQL queries resulting in productivity gains.
 
 ·	Created 3 VBA-macros that helped in resolving quality and productivity tracking issue which helped in improving SOP compliance.
@@ -34,11 +30,7 @@ AMAZON, HYDERABAD, INDIA MARCH 2022 – JANUARY 2025
 
 ·	Detected fraudulent patterns among sellers, reducing fraudulent transactions saving the company an estimated $50K annually.
 
-·	Accessed public datasets via BigQuery to perform cross-market analyses.
-
 ·	Generated analytical reports using R and R Markdown, improving report clarity and reducing review times.
-
-·	Assisted in analyzing Meta Ads and Google Ads performance reports, optimizing ad spend and improving click-through rates.
 
 ·	Designed 3 ETL pipelines, reducing data extraction time and ensuring compliance reporting accuracy.
 
@@ -46,15 +38,8 @@ AMAZON, HYDERABAD, INDIA MARCH 2022 – JANUARY 2025
 
 ·	Managed and updated data tables, ensuring data integrity and reducing data-related errors.
 
-·	Led A/B tests and collaborated with the marketing team to analyze lead conversion rates, optimizing the sales funnel and boosting conversions.
+·	Contributed to 3 major projects using Waterfall and Agile methodologies; successfully drafted BRDs and SRS documents.
 
-·	Contributed to 3 major projects using Waterfall and Agile methodologies; successfully drafted 5+ BRDs and SRS documents.
-
-·	Utilized JIRA and Trello to manage projects, reducing project delays and improving task visibility.
-
-·	Enhanced revenue operations by implementing dashboards that improved sales decision-making, contributing to a 10% boost in conversion rates.
-
-·	Utilized Amazon's custom CRM (similar to Salesforce and HubSpot) to manage and track customer interactions, improving data accuracy and reducing response time.
 
 
 **Education**
@@ -68,19 +53,18 @@ JAWAHARLAL NEHRU TECHNOLOGY UNIVERSITY HYDERABAD, INDIA
 ·	R Programming
 ·	Power BI
 ·	Spreadsheet
-·	Tableau, 
+·	Tableau 
 ·	QuickSight Dashboards
 ·	Data Mining
 ·	Reporting Automation 
 ·	Data cleaning
 ·	Real-time Monitoring Systems 
-·	JIRA 
-·	Trello
 ·	Requirements Gathering and Documentation
 ·	Business Process Analysis
-·	Microsoft Fabric 
-·	Data Factory, Dataflows 
-·	Power query	Soft Skills:
+·	Power query	
+
+
+Soft Skills:
 ·	Stakeholder Management
 ·	Root Cause Analysis
 ·	Problem Identification and Resolution
@@ -90,8 +74,8 @@ JAWAHARLAL NEHRU TECHNOLOGY UNIVERSITY HYDERABAD, INDIA
 
 
 **Certificates**
-·	Google certified Data Analytics Professional Certificate.
-·	Google AI Essentials.
+·	**Google certified Data Analytics Professional Certificate.**
+·	**Google AI Essentials.**
 
 
 **Additional Information**
