@@ -101,5 +101,8 @@ Soft Skills:
 ·	**Google AI Essentials.**
 
 
+
+
 **Additional Information**
+
 Visa Type: Visit Visa (Expires on 26/05/2025)
