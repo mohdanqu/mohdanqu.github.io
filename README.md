@@ -48,33 +48,56 @@ BACHELOR OF TECHNOLOGY | SEPTEMBER 2017 - 2021 |
 JAWAHARLAL NEHRU TECHNOLOGY UNIVERSITY HYDERABAD, INDIA
 
 **Technical Skills & Abilities**:
+
 ·	SQL 
+
 ·	Excel (Advanced) 
+
 ·	R Programming
+
 ·	Power BI
+
 ·	Spreadsheet
+
 ·	Tableau 
+
 ·	QuickSight Dashboards
+
 ·	Data Mining
+
 ·	Reporting Automation 
+
 ·	Data cleaning
+
 ·	Real-time Monitoring Systems 
+
 ·	Requirements Gathering and Documentation
+
 ·	Business Process Analysis
+
 ·	Power query	
 
 
 Soft Skills:
+
 ·	Stakeholder Management
+
 ·	Root Cause Analysis
+
 ·	Problem Identification and Resolution
+
 ·	Training and Development
+
 ·	Time Management and Organization
+
 ·	Collaboration and Teamwork
 
 
+
 **Certificates**
+
 ·	**Google certified Data Analytics Professional Certificate.**
+
 ·	**Google AI Essentials.**
 
 
